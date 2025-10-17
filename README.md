@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Garvit Satija  
+# 👋 Hi, I'm Garvit 
 
 🎓 **B.Sc. (Hons.) Statistics with Minor in Economics** — *Ramjas College, University of Delhi*  
 📊 Passionate about **Quantitative Finance, Risk Modeling, and Applied Statistics**  
